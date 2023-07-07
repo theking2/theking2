@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+Code is there to explain the comments to the computer.
 <!--
 **theking2/theking2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
